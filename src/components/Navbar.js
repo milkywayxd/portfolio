@@ -16,7 +16,7 @@ function Navbar() {
       <nav className="navbar">
       {/* Logo Section */}
       <div className="logo">
-        <a><img src="/images/logo.png" alt="Logo" onClick={handleLogoClicked}/></a>
+        <a><img src="./images/logo.png" alt="Logo" onClick={handleLogoClicked}/></a>
       </div>
       
       {/* Navigation Links */}

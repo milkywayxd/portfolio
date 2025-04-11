@@ -3,7 +3,7 @@ const PhotoWithSVGShapes = () => {
   return (
     <div style={{ position: 'relative', display: 'inline-block' }}>
       <img
-        src="/images/headshot.png"
+        src= "./images/headshot.png"
         alt="Your photo"
         style={{ display: 'block', width: '100%', height: 'auto', borderRadius: '8px' }}
       />

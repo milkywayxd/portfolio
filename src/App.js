@@ -12,7 +12,7 @@ function App() {
 
   return ( 
     <div className="App">
-    <BrowserRouter basename="/home">
+    <BrowserRouter basename="/portfolio/">
      <Navbar />
 
        {/* Routing logic */}

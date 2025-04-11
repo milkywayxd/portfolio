@@ -5,7 +5,7 @@ const Projects = ({onClick}) => {
     return(
     <div  id="section3" className="details_box">
          <p className="subtitle">Projects <i class="fa-solid fa-diagram-project"></i></p>
-            <h4>Car Parking System </h4> 
+            <h3>Car Parking System </h3> 
             <p>This project involves the development of a simple <b>Console (Text Based) User Interface application</b> designed to manage car parking 
             slots at a company parking site. The system enables users to efficiently 
                 manage parking spaces for both staff and visitors, allowing for seamless tracking and maintenance of 
@@ -28,7 +28,7 @@ const Projects = ({onClick}) => {
             </p>
             <a href="https://github.com/milkywayxd/parkingSpotSystemConsole" className="project_link">GitHub Link <i class="fa-brands fa-github"></i></a>
             <hr />            
-            <h4>Community Garden</h4>
+            <h3>Community Garden</h3>
             <p className="long_text">This project involved the development of a landing page for a community garden website aimed at introducing the public to 
                 the services and opportunities offered by the garden, while encouraging social interaction and engagement within the community. 
             </p>
@@ -41,7 +41,7 @@ const Projects = ({onClick}) => {
              </p>
              <hr></hr>
             {/* <h4>Weather Application</h4> */}
-            <h4>Mooc</h4>
+            <h3>Mooc</h3>
             <p className="long_text">The <b>Admin Management System backend</b> was developed to provide a secure, scalable, 
                 and maintainable infrastructure for managing administrative tasks and business logic. Built using <b>.NET (ASP.NET Core)</b> and the <b>C# </b> programming language, 
                 the backend features a set of <b>RESTful APIs</b>, comprehensive <b>database management</b>, 

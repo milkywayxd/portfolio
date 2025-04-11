@@ -15,7 +15,7 @@ const Greeting = (props) => {
 return (
     <div className="greeting_container">
         <div className="greeting_content">
-    <h1 className="greeting_title">Hi! I'm Dany Cao</h1>
+    <h1 className="greeting_title">Hello World! Dany Cao</h1>
     <h2>IOS Developer | Software Engineer | Full Stack Developer</h2>
     <p className="summary">With two years of experience as an iOS Developer, 
         along with recent completion of a Full-Stack Web Development Bootcamp, 

@@ -14,7 +14,7 @@ return (
   <div  id="section1" className="details_box">
   <p className="subtitle">Profesional Experience  <i class="fa-solid fa-rocket"></i></p>
   <div>
-  <h4>Graduate Software Engineer &#8226; Australia Post </h4>
+  <h3>Software Engineer &#8226; Australia Post </h3>
   <p>2022-2024</p>
   <p className="long_text">During my time at Australia Post, 
   During my time at Australia Post, I worked on the AusPost mobile application with a primary focus on <b>iOS development</b>. 
@@ -26,7 +26,7 @@ return (
   <MySkills skills={iOSskills} />
   </div>
   
-  <h4>Cabin Crew &#8226; Qantas Airways </h4>
+  <h3>Cabin Crew &#8226; Qantas Airways </h3>
   <p>2006-2022</p>
   <p className="long_text">Throughout my career at Qantas, I demonstrated a strong commitment to ensuring a positive and memorable 
     experience for passengers. Whether by actively listening to their needs, resolving concerns promptly, 

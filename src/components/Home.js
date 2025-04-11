@@ -45,11 +45,11 @@ const handleScrollToSection = (sectionId) => {
 
 <div className='feature_div'>
 <div className='feature_container'>
-<FeatureBox icon='/images/work.png' title='Professional Experience' 
+<FeatureBox icon='./images/work.png' title='Professional Experience' 
 content='Explore the Roles That Have Shaped My Professional Journey and How They Can Benefit Your Business'onClick= {(e) => { e.preventDefault(); handleScrollToSection('section1'); }} />
-<FeatureBox icon='/images/study.png' title='Education' 
+<FeatureBox icon='./images/study.png' title='Education' 
 content='Transform Your Ideas with My Knowledge - Learn About My Academic Background' onClick= {(e) => { e.preventDefault(); handleScrollToSection('section2'); }}/>
-<FeatureBox icon='/images/projects.png' title='Projects' 
+<FeatureBox icon='./images/projects.png' title='Projects' 
 content='See What is Possible When We Combine Creativity with Strategy. Discover the Projects I have worked on' onClick= {(e) => { e.preventDefault(); handleScrollToSection('section3'); }}/>
 </div>
 </div>

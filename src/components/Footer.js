@@ -10,7 +10,7 @@ const Footer =() => {
     <a href="https://x.com/Xiaodan528585" className="icon_item"><i class="fa-brands fa-twitter"></i></a>
     </div>
     <div className="footer_content">
-    <p>Designed in Figma and coded in Visual Studio Code by yours truly. Build with React, deployed by Tomcat.</p> 
+    <p>Designed in Figma and coded in Visual Studio Code by yours truly. Build with React, supported by Tomcat.</p> 
     <p>©  Xiaodan Cao 2025</p>
     </div>
   </div>
