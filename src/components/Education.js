@@ -7,6 +7,11 @@ return(
 <p className="subtitle">Education <i class="fa-solid fa-book"></i></p>
 <p>SWINBURNE UNIVERSITY OF TECHNOLOGY, Hawthorn VIC</p>   
 <h3>Graduate Diploma of Information Technology: Software Development, 2025 </h3>
+<br/>
+<p>JR ACADEMY, Melbourne VIC</p>
+<h3>Full Stack Web Development Bootcamp, 2024</h3>
+<br/>
+<p>SWINBURNE UNIVERSITY OF TECHNOLOGY, Hawthorn VIC</p>   
 <h3>Graduate Certificate of Information Technology: Software Development, 2020 - 2021 </h3>
 <br/>
 <p>SWINBURNE UNIVERSITY OF TECHNOLOGY, Hawthorn VIC </p>
