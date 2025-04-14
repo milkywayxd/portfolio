@@ -34,10 +34,10 @@ Contact form UI (backend not yet implemented)
 📈 Roadmap – Version 2
 Planned improvements for the next version:
 
-Responsive Design
+Responsive Design - 
 Optimize the layout for mobile and tablet devices.
 
-Backend Integration
+Backend Integration - 
 Enable form submissions for the "Contact Me" section using a backend service.
 
 Please visit http://dany.breezebus.uk/portfolio/ to view the website.
